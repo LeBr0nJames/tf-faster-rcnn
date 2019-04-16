@@ -10,7 +10,7 @@ public class HelloControlle {
     @ResponseBody
     public String sayHello(){
 
-        return "hello caixunkun";
+        return "hello word";
     }
 }
 
